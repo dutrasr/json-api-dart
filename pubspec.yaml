@@ -4,8 +4,8 @@ description: "Framework-agnostic implementations of JSON:API Client (Flutter, We
 homepage: "https://github.com/f3ath/json-api-dart"
 
 dependencies:
-  http: ^0.13.5
-  http_parser: ^4.0.0
+  http: ^0.12.2
+  http_parser: ">=0.0.1 <4.0.0"
 
 dev_dependencies:
   args: ^1.5.2
